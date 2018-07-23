@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-  'before early scene fork mouse pen stove praise canyon idle chapter pet',
-  'https://rinkeby.infura.io/v3/9379d6c3a6f74be6bf86604d88be7a29'
+  'paste your 12 word mnemonic here',
+  'https://rinkeby.infura.io/v3/cccccccccccccccccccccccccccccccc9'
 );
 const web3 = new Web3(provider);
 
